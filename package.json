@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "testDemo": "testcafe chrome tests/*.js"
+  },
+
+    "dependencies": {
+      "testcafe": "^1.18.6"
+    }
+}
